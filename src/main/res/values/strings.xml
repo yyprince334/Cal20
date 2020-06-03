@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calc20</string>
+    <string name="Digit_1">1</string>
+    <string name="Digit_2">2</string>
+    <string name="Digit_3">3</string>
+    <string name="Digit_4">4</string>
+    <string name="Digit_5">5</string>
+    <string name="Digit_6">6</string>
+    <string name="Digit_7">7</string>
+    <string name="Digit_8">8</string>
+    <string name="Digit_9">9</string>
+    <string name="Digit_0">0</string>
+    <string name="Digit_Dot">.</string>
+    <string name="Digit_Plus">+</string>
+    <string name="Digit_Minus">-</string>
+    <string name="Digit_Multiply">*</string>
+    <string name="Digit_Divide">/</string>
+    <string name="Digit_Percent">%</string>
+    <string name="Digit_Equal">=</string>
+    <string name="Digit_Clear">C</string>
+    <string name="Digit_Back">X</string>
+    <string name="Digit_00">00</string>
+    <string name="Enter_Digit">Enter Digits</string>
+    <string name="Blank" />
+    <string name="Enter_Digit1" />
+    <string name="Digit_Enter">Enter Digit</string>
+</resources>
